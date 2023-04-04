@@ -9,6 +9,10 @@ pageextension 50101 ItemCardAddFields extends "Item Card"
             {
                 ApplicationArea = All;
             }
+            field("WebShop Tag2"; Rec."WebShop Tag2")
+            {
+                ApplicationArea = All;
+            }
         }
     }
 

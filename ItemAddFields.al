@@ -6,5 +6,9 @@ tableextension 50100 ItemAddFields extends Item
         {
             DataClassification = ToBeClassified;
         }
+        field(57601; "WebShop Tag2"; Text[50])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 }
