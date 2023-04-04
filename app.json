@@ -1,0 +1,28 @@
+{
+  "id": "e8a7aba8-ba55-4884-8cad-0fb2b3f7609e",
+  "name": "VT Extensions",
+  "publisher": "Vladimir Timofeev",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
