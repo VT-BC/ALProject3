@@ -2,9 +2,9 @@
   "id": "e8a7aba8-ba55-4884-8cad-0fb2b3f7609e",
   "name": "VT Extensions",
   "publisher": "Vladimir Timofeev",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "brief": "",
-  "description": "",
+  "description": "Extensions description - Normal text",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -17,7 +17,7 @@
   "idRanges": [
     {
       "from": 50100,
-      "to": 50149
+      "to": 57999
     }
   ],
   "showMyCode": true,
