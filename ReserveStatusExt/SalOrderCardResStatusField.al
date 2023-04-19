@@ -1,4 +1,4 @@
-pageextension 57503 SalesOrderCard_ResStatusField extends "Sales Order"
+pageextension 57501 SalesOrderCard_ResStatusField extends "Sales Order"
 {
     layout
     {

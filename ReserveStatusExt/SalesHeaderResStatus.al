@@ -1,4 +1,4 @@
-tableextension 57501 "ReserveStatusField" extends "Sales Header"
+tableextension 57500 "ReserveStatusField" extends "Sales Header"
 {
     fields
     {
